@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app-manifest>
+    <backup-info>
+        <version>598</version>
+        <time>2025-05-01T23:00:00.267+02:00[Europe/Amsterdam]</time>
+        <content-types>3</content-types>
+        <method>10100</method>
+        <milestone>DMO_M2_22</milestone>
+        <backup-key>fd7b9d373db48601fa4a9d407a110d00</backup-key>
+    </backup-info>
+    <account-info>
+        <dc>eu</dc>
+        <scope-id>20083751611</scope-id>
+        <screen-name>saasduo-saas-platform</screen-name>
+    </account-info>
+    <app-meta-info>
+        <display-name>DefibXpert</display-name>
+        <link-name>defibxpert</link-name>
+        <id>151691000000889005</id>
+        <creation-time>1694165315000</creation-time>
+        <time-zone>Europe/Paris</time-zone>
+        <status>0</status>
+        <type>1</type>
+        <permission-model>C5</permission-model>
+        <blueprint-version>1.0</blueprint-version>
+    </app-meta-info>
+    <chunks-info>
+        <meta prefix="/">
+            <chunk size="187469">meta.zds</chunk>
+        </meta>
+        <data prefix="data">
+            <chunk size="491511">data_1.zip</chunk>
+        </data>
+        <sync prefix="/">
+            <chunk size="4702">sync.zip</chunk>
+        </sync>
+    </chunks-info>
+</app-manifest>
